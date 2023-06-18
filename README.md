@@ -33,3 +33,6 @@ Complete the following steps:
 ![alt text](https://github.com/taniyatalukdar/belly-button-challenge/blob/main/Images/hw02.jpg)
 
 7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+
+
+# My static page has been deployed at: https://belly-button-challenge-amber.vercel.app/
